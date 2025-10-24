@@ -86,7 +86,7 @@
 - Color-matched door handles and mirrors
 - Short stubby roof antenna
 - Turbo-specific 6-spoke 16-inch alloy wheels
-- Dual exhaust outlets
+- Single exhaust outlet (2.25" diameter system vs 1.75" on non-turbo)
 
 ### Interior/Features (Turbo-Specific)
 - Turbo boost gauge in instrument cluster
