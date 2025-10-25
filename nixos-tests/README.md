@@ -41,19 +41,26 @@ nix run .#packages.x86_64-linux.test-cowsay-hello
 nix run .#packages.x86_64-linux.test-vm-network
 ```
 
-### Option 2: With Docker
+### Option 2: With Docker or Podman
 
 ```bash
-# Run tests in Nix Docker container
+# Run tests in Nix container (Docker)
 docker run --rm -it -v $PWD:/workspace -w /workspace \
   nixos/nix nix --extra-experimental-features "nix-command flakes" \
   flake check
 
-# Or build specific test
-docker run --rm -it -v $PWD:/workspace -w /workspace \
-  nixos/nix nix --extra-experimental-features "nix-command flakes" \
+# Or with Podman (recommended for rootless environments)
+podman run --rm -v $PWD:/workspace:Z -w /workspace \
+  docker.io/nixos/nix:latest nix --extra-experimental-features "nix-command flakes" \
+  flake check
+
+# Build specific test
+podman run --rm -v $PWD:/workspace:Z -w /workspace \
+  docker.io/nixos/nix:latest nix --extra-experimental-features "nix-command flakes" \
   build .#checks.x86_64-linux.cowsay-hello
 ```
+
+**Note**: Podman is often preferred in rootless or restricted environments as it's daemonless and more secure.
 
 ## Test Structure
 
