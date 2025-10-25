@@ -1,27 +1,25 @@
-# Nix Installation
+# Install Nix
 
-## Install
 ```bash
 curl -L https://nixos.org/nix/install | sh -s -- --daemon
 ```
 
-## Run a package without installing
+Installation creates `/nix`, adds `nixbld` users, modifies shell profiles. May error at end but still works.
+
+Find nix binary:
 ```bash
-nix-shell -I nixpkgs=https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz -p <package> --run "<command>"
+ls /nix/store/ | grep "nix-2"
+# Use: /nix/store/<hash>-nix-<version>/bin/nix
 ```
 
-## Example
+## Usage
+
+Run package once:
 ```bash
-nix-shell -I nixpkgs=https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz -p cowsay --run "cowsay hello"
+/nix/store/<hash>-nix-<version>/bin/nix-shell -I nixpkgs=https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz -p cowsay --run "cowsay hello"
 ```
 
-## Enter interactive shell with package
+Interactive shell:
 ```bash
-nix-shell -I nixpkgs=https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz -p <package>
+/nix/store/<hash>-nix-<version>/bin/nix-shell -I nixpkgs=https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz -p cowsay
 ```
-
-## Notes
-- First run downloads packages (slow)
-- Cached in `/nix/store` (fast after)
-- Installs to `/nix`, creates `nixbld` users
-- May fail on last step (profile setup) but still works
