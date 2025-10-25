@@ -1,2 +1,4 @@
 .worktrees/
 .private-journal/
+*.iso
+*.iso.backup
