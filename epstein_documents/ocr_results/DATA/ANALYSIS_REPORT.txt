@@ -1,0 +1,281 @@
+================================================================================
+EPSTEIN ESTATE DOCUMENTS - SEVENTH PRODUCTION
+DATA FOLDER OCR ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-13 17:02:41
+
+FILE ANALYSIS
+--------------------------------------------------------------------------------
+DAT File: /home/user/superpowers/epstein_documents/Epstein Estate Documents - Seventh Production/DATA/HOUSE_OVERSIGHT_009.dat
+  - Total documents: 2897
+  - Format: Concordance DAT (Þ delimited)
+
+OPT File: /home/user/superpowers/epstein_documents/Epstein Estate Documents - Seventh Production/DATA/HOUSE_OVERSIGHT_009.opt
+  - Total image references: 23124
+  - Format: Opticon CSV
+
+DOCUMENT STRUCTURE
+--------------------------------------------------------------------------------
+DAT File Fields:
+
+FOLDER 009 ANALYSIS
+--------------------------------------------------------------------------------
+Documents in folder 009: 0
+Images processed: 36
+
+OCR RESULTS
+--------------------------------------------------------------------------------
+Images processed: 36
+Successful: 36 (100.0%)
+Failed: 0
+Total characters extracted: 72,713
+
+OCR DETAILED RESULTS
+--------------------------------------------------------------------------------
+✓ HOUSE_OVERSIGHT_026477.jpg
+   Characters: 1,224
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 6/23/2018 3:38:53 PM
+To: Steve Bannon Ji
+Subject: Re...
+
+✓ HOUSE_OVERSIGHT_026478.jpg
+   Characters: 2,957
+   Preview: inspector general, unearthed a pattern of anti-Trump bias by high-ranking officials at the Federal
+B...
+
+✓ HOUSE_OVERSIGHT_026479.jpg
+   Characters: 3,049
+   Preview: sought to bolster Mrs. Clinton’s electoral chances and, if the unthinkable happened, obtain an
+
+insu...
+
+✓ HOUSE_OVERSIGHT_026480.jpg
+   Characters: 3,136
+   Preview: It was initiated in defiance of a longstanding Justice Department presumption against investigating
+...
+
+✓ HOUSE_OVERSIGHT_026481.jpg
+   Characters: 2,843
+   Preview: Papadopolous never mentioned emails, destroying any reasonable inference of a connection between
+
+th...
+
+✓ HOUSE_OVERSIGHT_026482.jpg
+   Characters: 1,376
+   Preview: The totality of the circumstances creates the appearance that Crossfire was politically motivated. S...
+
+✓ HOUSE_OVERSIGHT_026483.jpg
+   Characters: 1,784
+   Preview: Can you please send me WSJ op Ed. Tx
+
+Sent from my iPhone
+
+This email is intended only for the use o...
+
+✓ HOUSE_OVERSIGHT_026484.jpg
+   Characters: 993
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 6/23/2018 4:01:37 PM
+To: Kathy Ruemm|cr Sa
+Subject: ...
+
+✓ HOUSE_OVERSIGHT_026485.jpg
+   Characters: 2,869
+   Preview: 14 COMMENTS
+
+Special counsel Robert Mueller’s investigation may face a serious legal obstacle: It is...
+
+✓ HOUSE_OVERSIGHT_026486.jpg
+   Characters: 3,080
+   Preview: of the text messages raising such questions pertained to the Russia investigation.” Given how biases...
+
+✓ HOUSE_OVERSIGHT_026487.jpg
+   Characters: 3,122
+   Preview: In addition to the numerous anti-Trump messages uncovered by the inspector general, there is a stron...
+
+✓ HOUSE_OVERSIGHT_026488.jpg
+   Characters: 2,858
+   Preview: dinner, where he drunkenly bragged that he’d heard about such dirt but never seen it. These
+circumst...
+
+✓ HOUSE_OVERSIGHT_026489.jpg
+   Characters: 1,514
+   Preview: That these leaking efforts failed to prevent Mr. Trump’s victory, or that Mr. Comey’s ham-fisted
+int...
+
+✓ HOUSE_OVERSIGHT_026490.jpg
+   Characters: 1,901
+   Preview: From: "Rivkin, David" <Q
+Date: Friday, June 22, 2018 at 7:50 PM
+
+To: "Grossman, Andrew M" <a
+
+Subjec...
+
+✓ HOUSE_OVERSIGHT_026491.jpg
+   Characters: 1,341
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 6/23/2018 5:25:33 PM
+To: Kathy Ruennler
+Subject: Re:...
+
+✓ HOUSE_OVERSIGHT_026492.jpg
+   Characters: 2,493
+   Preview: It makes no difference how honorable he is. His investigation 1s tainted by the bias that
+attended i...
+
+✓ HOUSE_OVERSIGHT_026493.jpg
+   Characters: 3,084
+   Preview: Similarly, although Mr. Horowitz found no evidence that then-FBI Director James Comey was trying
+to ...
+
+✓ HOUSE_OVERSIGHT_026494.jpg
+   Characters: 3,119
+   Preview: In Williams v. Pennsylvania (2016), the court held that a state judge’s potential bias violated due
+...
+
+✓ HOUSE_OVERSIGHT_026495.jpg
+   Characters: 3,020
+   Preview: Group, led by the brother of Mrs. Clinton’s campaign chairman, received millions lobbying for
+Russia...
+
+✓ HOUSE_OVERSIGHT_026496.jpg
+   Characters: 1,914
+   Preview: Michael Isikoff reported the Hill briefings and the Steele dossier’s allegations regarding Carter Pa...
+
+✓ HOUSE_OVERSIGHT_026497.jpg
+   Characters: 1,854
+   Preview: bakerlaw.com
+
+<image002.png> <image003.png> <image004.png>
+
+From: "Rivkin, David" {i
+Date: Friday, J...
+
+✓ HOUSE_OVERSIGHT_026498.jpg
+   Characters: 732
+   Preview: destroy this communication and all copies thereof,
+including all attachments. copyright -all rights ...
+
+✓ HOUSE_OVERSIGHT_026499.jpg
+   Characters: 1,819
+   Preview: Date: Thursday, August 9 2018 10:47 AM
+Subject: Fwd: Our May conversation - more thoughts
+From: _ je...
+
+✓ HOUSE_OVERSIGHT_026500.jpg
+   Characters: 2,299
+   Preview: It's possible, of course, that we won’t need a third-party candidate. Trump could decide not to run ...
+
+✓ HOUSE_OVERSIGHT_026501.jpg
+   Characters: 2,444
+   Preview: start out in striking distance in any three-way poll against Trump and a fill-in-the-blank
+Democrati...
+
+✓ HOUSE_OVERSIGHT_026502.jpg
+   Characters: 2,424
+   Preview: narrow special interests inherent to winning re-election. This “fix-it” ticket would promise to forc...
+
+✓ HOUSE_OVERSIGHT_026503.jpg
+   Characters: 1,576
+   Preview: If we recruit this ideal candidate; threading the needle of name ID, a center-left bent, a TV- savvy...
+
+✓ HOUSE_OVERSIGHT_026504.jpg
+   Characters: 626
+   Preview: please note
+
+The information contained in this communication 1s
+confidential, may be attorney-client...
+
+✓ HOUSE_OVERSIGHT_026505.jpg
+   Characters: 1,918
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 8/23/2018 3:16:47 PM
+To: Kathy Ruemmler
+Subject: Re:...
+
+✓ HOUSE_OVERSIGHT_026506.jpg
+   Characters: 612
+   Preview: The information contained in this communication is
+confidential, may be attorney-client privileged, ...
+
+✓ HOUSE_OVERSIGHT_026507.jpg
+   Characters: 998
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 8/24/2018 12:47:43 PM
+To: Kathy Ruemm ler i |
+Subjec...
+
+✓ HOUSE_OVERSIGHT_026508.jpg
+   Characters: 1,204
+   Preview: From: jeffrey E. [jeevacation@gmail.com]
+
+Sent: 9/12/2018 6:15:20 PM
+To: Larry Sunmers a |
+Subject: ...
+
+✓ HOUSE_OVERSIGHT_026509.jpg
+   Characters: 1,772
+   Preview: On Sep 11, 2018, at 10:20 PM, Maskin, Eric <9 wrote:
+
+Yes, we can expect more extremists to run unde...
+
+✓ HOUSE_OVERSIGHT_026510.jpg
+   Characters: 1,768
+   Preview: WWWw .larrysummers.com
+
+On Sep 11, 2018, at 6:05 PM, Maskin, Eric (> wrote:
+Hi Larry,
+
+Thank you ver...
+
+✓ HOUSE_OVERSIGHT_026511.jpg
+   Characters: 1,083
+   Preview: On other hand, gore would not have to move left to take Nader vote.
+
+If J like centrism is it clear ...
+
+✓ HOUSE_OVERSIGHT_026512.jpg
+   Characters: 1,907
+   Preview: From: J [jeevacation@gmail.com]
+
+Sent: 11/5/2018 8:23:58 PM
+
+To: Michael Wolff a
+Subject: Re:
+
+take ...
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. FILE FORMAT:
+   - .DAT file is a Concordance DAT format (legal eDiscovery standard)
+   - Uses Þ (thorn) character as field delimiter
+   - Contains metadata for 2897 documents
+
+2. DOCUMENT COLLECTION:
+   - Total images across all folders: 23124
+   - Images are scanned at 300 DPI (good quality for OCR)
+   - Documents span folders 001-009
+
+3. TEXT EXTRACTION:
+   - The DAT file references TEXT files that don't exist yet
+   - OCR is needed to extract text from the scanned images
+   - Successfully extracted text from 36/36 images in folder 009
+
+4. CONTENT:
+   - Documents appear to be from Jeffrey Epstein's estate
+   - Includes PDFs, emails, and other document types
+   - Date range appears to span 2011-2018
+
+================================================================================
+END OF REPORT
+================================================================================

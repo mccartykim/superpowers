@@ -1,0 +1,58 @@
+KLC OpCo Summary Historical Pro Forma and Projected Financials
+
+Fiscal Year Ended December 31,
+
+($ in millions) 2004PF 2005PF 2006P 2007P 2008P 2009P 2010P 2011P
+OPERATIONAL DATA
+Revenue $1,442.2 $1,477.7 $1,557.8 $1,656.5 $1,769.6 $1,919.7 $2,095.8 $2,290.8
+Growth 2.5% 5.4% 6.3% 6.8% 8.5% 9.2% 9.3%
+Gross Profit $233.3 $244.4 $290.7 $320.6 $354.0 $396.2 $448.2 $501.3
+Adjusted EBITDA $143.3 $149.9 $161.7 $179.9 $204.8 $237.5 $279.0 $320.1
+Margin 9.9% 10.1% 10.4% 10.9% 11.6% 12.4% 13.3% 14.0%
+Adjusted EBITDAR $352.8 $367.4 $371.4 $391.4 $419.6 $459.7 $510.8 $568.6
+Margin 24.5% 24.9% 23.8% 23.6% 23.7% 23.9% 24.4% 24.8%
+Operating Income $27.1 $78.9 $101.6 $117.8 $146.9 $179.5 $212.4
+Total Interest Expense 23.5 23.6 23.5 23.4 23.3 23.1 22.9
+Net Income’ $1.6 $31.1 $46.0 $56.9 $77.4 $98.3 $117.9
+BALANCE SHEET DATA
+Cash $118.8 $154.2 $215.8 $288.5 $373.7 $484.8 $621.2
+Accounts Receivable 55.6 58.6 62.4 66.6 72.3 78.9 86.2
+PP&E, Net 286.6 301.9 305.9 309.4 315.0 315.6 311.1
+Accounts Payable 13.0 13.7 14.6 15.6 16.9 18.4 20.1
+SELECTED CASH FLOW DATA
+Net Income (Loss)' $1.6 $31.1 $46.0 $56.9 $77.4 $98.3 $117.9
++ Depreciation 47.9 54.6 56.2 61.5 67.3 74,2 80.9
++ Amortization of Intangibles 11.6 12.8 10.0 8.8 3.6 3.5 3.6
++ Amortization of Deferred Financing Fees 0.8 0.8 0.8 0.8 0.8 0.8 0.8
++ Change in Working Capital’ 0.0 2.8 3.4 3.9 5.2 6.1 6.8
++ Change in Accrued LTIP® 0.0 2.6 4.0 45 2.4 1.1 0.6
++ Change in Accrued SAR* 9.9 2.4 3.1 3.2 3.7 4.7 5.6
++ Change in Other Assets 0.0 (0.6) (0.8) (0.9) (1.2) (1,4) (1.5)
+= Operating Cash Flow $71.9 $106.0 $122.7 $138.7 $159.3 $187.4 $214.5
+- Capital Expenditures (83.1) (69.9) (60.2) (65.0) (72.8) (74.8) (76.4)
+- Capitalized Lease Payments (0.5) (0.8) (0.9) (1.0) (1.3) (15) (LD
+= Cash for Debt Service $(11.7) $35.4 $61.6 $72.7 $85.2 $111.1 $137.9
+CAPITALIZATION
+Total Debt $276.4 $275.6 $274.7 $273.7 $272.5 $271.0 $269.3
+Shareholders’ Equity® 254.1 283.1 330.1 390.7 474.8 583.6 721.4
+Total Capitalization $530.5 $558.7 $604.9 $664.4 $747.3 $854.6 $990.4
+
+" Excludes equity in earnings of unconsolidated subsidiary (KLC PropCo).
+
+* KLC has not divided change in working capital between KLC OpCo and KLC PropCo. Traditionally KLC OpCo operates with positive working capital.
+° For additional detail, see the discussion below under the heading ‘— Long Term Incentive Plan.”
+
+* Non-cash expenses related to KSI’s Stock Appreciation Rights Plan attributed to KLC’s employees and payable by KSI in cash upon settlement.
+
+° Represents book value.
+
+Revenue
+Management projects revenue to increase at a 8.0% CAGR, from $1.6 billion in 2006 to $2.3 billion in
+2011. Most of the projected growth stems from KLC OpCo’s ECE segment which currently accounts for
+
+approximately 96.0% of KLC OpCo’s pro forma revenue. The following table shows projected revenue by
+business segment:
+
+93
+
+HOUSE_OVERSIGHT_024526

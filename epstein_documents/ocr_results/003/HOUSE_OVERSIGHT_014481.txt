@@ -1,0 +1,122 @@
+recent price action for individual assets. However, the fact that we have had multiple
+signals across a range of sectors and macro prices is typically a warning that markets
+
+have moved too far too fast in a more general sense.
+
+The last comparable episode was in early July in the wake of the Brexit sell-off. At that
+point Defensives were hitting record over bought signals with Financials and Cyclicals
+seeing the opposite. Against the backdrop of heightened uncertainty over the effects of
+
+Brexit the models provided a great signal to fade the violent rotation.
+
+With these signals in mind we look for a period of consolidation in the rotation trade.
+The models are short term in nature and are not intended to identify strategic turning
+points — although like in the case of Brexit they do tend to emphasize when a crescendo
+is reached. While we would look for another potential leg in some of the reflation trades
+over the coming months we would prefer to wait for a pull back. The Basic Resources
+sector provides a useful example in how to use the models tactically. Three times this
+year prior to the current instance the sector has hit overbought levels on its relative CT|
+indicator. Previous pullbacks lasted 4-8 weeks and averaged -11% in relative
+
+performance terms.
+
+Table 5: Composite Technical Indicators for sector relative returns
+(+100 max overbought; -100 max oversold}
+
+Table 6: Bollinger scores —bond proxies 2.5-3.5SD oversold
+
+52-week Z-Score
+
+Since Oct 27
+[Sector Latest MIN MAX
+Healthcare +5 -98 -1
+Personal & Household Goods 0 -94 0
+Food & Beverages -31 -93 0
+Telecom -25 -92 0
+Utilities 8 -92 3
+Technology 0 -88 26
+Media -1 -87 rf
+Industrial Goods & Services 0 -13 35
+Oil & Gas 1 -45 4
+Autos 0 -12 8
+Chemicals 0 8 0
+Travel & Leisure 0 -27 37
+Financial Services “1 3 43
+Construction & Materials 0 -7 45
+Retail 0 -42 90
+Insurance 36 0 94
+Banks 16 8 94
+Basic Resources 9 1 100
+
+Source: BofA Merrill Lynch Global Research, Bloomberg
+
+Chart 45: Basic Resources 4" overbought signal this year — previous
+pullbacks last 4-8 weeks and averaged -11% relative
+
+Recent 1m extreme Latest
+Utility 38 26
+Real Estate 34 -2.1
+Media 29 -18
+Food & Bev 26 22
+HealthCare 25 -18
+Telcos 24 22
+Travel & Leis -2.1 07
+Retail 15 -0.4
+Prs & HH Gds -12 -0.6
+Autos 08 05
+Insurance 0.9 08
+Technology 1.0 06
+Banks 1.0 06
+FinServ 1.0 06
+Industrials 15 14
+Oils 16 09
+Chemicals 19 08
+Construction 2.0 12
+Basics 27 22
+
+Source: BofA Merrill Lynch Global Research, Bloomberg
+
+Chart 46: Utilities near a record -4SD oversold vs 52-week average
+
+100 5 1.2
+80 4
+11
+60 4
+40 4 ‘ 1.0
+20 b f
+7 0.9
+0 +-- A 2 r
+-20 * 0.8
+-40
+0.7
+-60 4 : : :
+1 ==——=CTl relative ——=—<Basics relative
+-80 - 0.6
+
+12/15 0216 O46 06/16 08/16 10/16
+
+Source: BofA Merrill Lynch Global Research, Bloomberg
+
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-3.0
+
+-4.0
+Dec-97 Dec-01 Dec-05 Dec-09 Dec-13
+
+Utility - relative price vs 52wk average (SD)
+
+Source: BofA Merrill Lynch Global Research, Bloomberg
+
+22 European Equity Strategy | 01 December 2016
+
+BankofAmerica <2”
+Merrill Lynch
+
+HOUSE_OVERSIGHT_014481
