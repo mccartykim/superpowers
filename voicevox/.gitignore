@@ -1,0 +1,11 @@
+# Downloaded binaries and large files
+download-linux-x64
+*.tgz
+*.tar.gz
+*.whl
+voicevox_onnxruntime-*/
+open_jtalk_dic_utf_8-*/
+models/
+
+# Keep output files for demo purposes
+!output.wav
